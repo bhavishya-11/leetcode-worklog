@@ -1,25 +1,29 @@
-# LeetCode Worklog (C++)
+# 🧩 LeetCode Practice  
 
-Daily habit: solving **at least 2 LeetCode problems per day** in C++, with writeups and commit history as timestamped proof of work.
+This folder contains my solutions to various LeetCode problems, written in **C++**.  
+I’m solving at least one problem regularly to improve problem-solving and coding skills.  
 
-## Current streak: 1 day (Aug 1, 2025)
+---
 
-## Summary table
+## 📅 Progress Log  
 
-| Date       | Problem                     | Difficulty | Key Technique   |
-|------------|-----------------------------|------------|-----------------|
-| 2025-08-01 | 509 Fibonacci Number        | Easy       | Recursion       |
-| 2025-08-01 | 704 Binary Search           | Easy       | Recursion       |
+### ✅ Problem 46: Permutations  
+- **Link**: [LeetCode 46. Permutations](https://leetcode.com/problems/permutations/)  
+- **Solution file**: [`46_permutations.cpp`](46_permutations.cpp)  
+- **Concepts used**: Recursion, Backtracking  
+- **Time Complexity**: `O(n * n!)`  
+- **Space Complexity**: `O(n!)` (recursion stack)  
 
-## How it works
+---
 
-Each problem folder contains:
-- `solution.cpp`: C++ implementation with comments.
-- `README.md`: Problem summary, approach, complexity, edge cases.
-- `test.txt`: Example input/output to validate manually.
+## 🔮 Goals  
+- Solve problems daily to strengthen **DSA & problem-solving skills**  
+- Document my journey for future reference  
+- Build a strong LeetCode streak and prep for interviews  
 
-## Usage
+---
 
-Compile with:
-```bash
-g++ -std=c++17 solution.cpp -o solution && ./solution
+## 🛠️ Tech Used  
+- C++  
+- Git & GitHub  
+- VSCode  
