@@ -12,7 +12,14 @@ I’m solving at least one problem regularly to improve problem-solving and codi
 - **Solution file**: [`46_permutations.cpp`](46_permutations.cpp)  
 - **Concepts used**: Recursion, Backtracking  
 - **Time Complexity**: `O(n * n!)`  
-- **Space Complexity**: `O(n!)` (recursion stack)  
+- **Space Complexity**: `O(n!)` (recursion stack)
+
+### ✅ Problem 37: Sudoku Solver  
+- **Link**: [LeetCode 37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)  
+- **Solution file**: [`37_sudoku_solver.cpp`](37_sudoku_solver.cpp)  
+- **Concepts used**: Backtracking, Constraint Satisfaction  
+- **Time Complexity**: `O(9^(n*n))` in worst case (pruned heavily by constraints)  
+- **Space Complexity**: `O(n^2)` for the board state  
 
 ---
 
