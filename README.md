@@ -42,6 +42,27 @@ I’m solving at least one problem regularly to improve problem-solving and codi
 - **Time Complexity**: `O(n)`  
 - **Space Complexity**: `O(1)`  
 
+### ✅ Problem 443: String Compression  
+- **Link**: [LeetCode 443. String Compression](https://leetcode.com/problems/string-compression/)  
+- **Solution file**: [`443_string_compression.cpp`](443_string_compression.cpp)  
+- **Concepts used**: Two Pointers, String manipulation  
+- **Time Complexity**: `O(n)`  
+- **Space Complexity**: `O(1)`  
+
+### ✅ Problem 151: Reverse Words in a String  
+- **Link**: [LeetCode 151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  
+- **Solution file**: [`151_reverse_words_in_a_string.cpp`](151_reverse_words_in_a_string.cpp)  
+- **Concepts used**: String, Two Pointers, Trimming spaces  
+- **Time Complexity**: `O(n)`  
+- **Space Complexity**: `O(n)` (for storing result)  
+
+### ✅ Problem 567: Permutation in String  
+- **Link**: [LeetCode 567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
+- **Solution file**: [`567_permutation_in_string.cpp`](567_permutation_in_string.cpp)  
+- **Concepts used**: Sliding Window, Hashing  
+- **Time Complexity**: `O(n)`  
+- **Space Complexity**: `O(1)` (fixed array size 26 for characters)
+
 ---
 
 ## 🔮 Goals  
