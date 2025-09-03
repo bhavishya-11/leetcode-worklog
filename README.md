@@ -65,7 +65,7 @@ I’m solving at least one problem regularly to improve problem-solving and codi
   
 ### ✅ Problem 34: Find First and Last Position of Element in Sorted Array  
 - **Link**: [LeetCode 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
-- **Solution file**: [`34_find_first_and_last_position.cpp`](34_find_first_and_last_position.cpp)  
+- **Solution file**: [`34_find_first_and_last_position.cpp`](34_find_first_and_last_position_of_element_in_sorted_array.cpp)  
 - **Concepts used**: Binary Search  
 - **Time Complexity**: `O(log n)`  
 - **Space Complexity**: `O(1)`  
@@ -79,7 +79,7 @@ I’m solving at least one problem regularly to improve problem-solving and codi
 
 ### ✅ Problem 26: Remove Duplicates from Sorted Array  
 - **Link**: [LeetCode 26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
-- **Solution file**: [`26_remove_duplicates.cpp`](26_remove_duplicates.cpp)  
+- **Solution file**: [`26_remove_duplicates.cpp`](26_remove_duplicates_from_sorted_array.cpp)  
 - **Concepts used**: Two Pointers  
 - **Time Complexity**: `O(n)`  
 - **Space Complexity**: `O(1)`  
