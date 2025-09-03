@@ -62,7 +62,34 @@ I’m solving at least one problem regularly to improve problem-solving and codi
 - **Concepts used**: Sliding Window, Hashing  
 - **Time Complexity**: `O(n)`  
 - **Space Complexity**: `O(1)` (fixed array size 26 for characters)
+  
+### ✅ Problem 34: Find First and Last Position of Element in Sorted Array  
+- **Link**: [LeetCode 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  
+- **Solution file**: [`34_find_first_and_last_position.cpp`](34_find_first_and_last_position.cpp)  
+- **Concepts used**: Binary Search  
+- **Time Complexity**: `O(log n)`  
+- **Space Complexity**: `O(1)`  
 
+### ✅ Problem 16: 3Sum Closest  
+- **Link**: [LeetCode 16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)  
+- **Solution file**: [`16_3sum_closest.cpp`](16_3sum_closest.cpp)  
+- **Concepts used**: Sorting, Two Pointers  
+- **Time Complexity**: `O(n^2)`  
+- **Space Complexity**: `O(1)`  
+
+### ✅ Problem 26: Remove Duplicates from Sorted Array  
+- **Link**: [LeetCode 26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
+- **Solution file**: [`26_remove_duplicates.cpp`](26_remove_duplicates.cpp)  
+- **Concepts used**: Two Pointers  
+- **Time Complexity**: `O(n)`  
+- **Space Complexity**: `O(1)`  
+
+### ✅ Problem 27: Remove Element  
+- **Link**: [LeetCode 27. Remove Element](https://leetcode.com/problems/remove-element/)  
+- **Solution file**: [`27_remove_element.cpp`](27_remove_element.cpp)  
+- **Concepts used**: Two Pointers, Array manipulation  
+- **Time Complexity**: `O(n)`  
+- **Space Complexity**: `O(1)`  
 ---
 
 ## 🔮 Goals  
