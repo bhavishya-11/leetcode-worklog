@@ -89,7 +89,29 @@ I’m solving at least one problem regularly to improve problem-solving and codi
 - **Solution file**: [`27_remove_element.cpp`](27_remove_element.cpp)  
 - **Concepts used**: Two Pointers, Array manipulation  
 - **Time Complexity**: `O(n)`  
+- **Space Complexity**: `O(1)`
+
+### ✅ Problem 3516: Find Closest Person
+- **Link**: [LeetCode 3516. Find Closest Person]([(https://leetcode.com/problems/find-closest-person/)]  
+- **Solution file**: [`3516_closest_person.cpp`](3516_closest_person.cpp)  
+- **Concepts used**: Math  
+- **Time Complexity**: `O(1)`  
 - **Space Complexity**: `O(1)`  
+
+### ✅ Problem 69: Sqrt(x)  
+- **Link**: [LeetCode 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)  
+- **Solution file**: [`69_sqrtx.cpp`](69_sqrtx.cpp)  
+- **Concepts used**: Binary Search  
+- **Time Complexity**: `O(log n)`  
+- **Space Complexity**: `O(1)`  
+
+### ✅ Problem 75: Sort Colors  
+- **Link**: [LeetCode 75. Sort Colors](https://leetcode.com/problems/sort-colors/)  
+- **Solution file**: [`75_sort_colors.cpp`](75_sort_colors.cpp)  
+- **Concepts used**: Three Pointers, Dutch National Flag Algorithm  
+- **Time Complexity**: `O(n)`  
+- **Space Complexity**: `O(1)`  
+
 ---
 
 ## 🔮 Goals  
